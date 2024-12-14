@@ -1,6 +1,6 @@
 # Notes ----------------------------------------------------------------------------------
-#   Goal:   Explore the data
-#   Time:   ???
+#   Goal:   Explore impacts of exceptional events and corrected monitors on design values.
+#   Time:   < 1 minute
 
 # Data notes -----------------------------------------------------------------------------
 #   - I drop all monitors outside of the CONUS.
