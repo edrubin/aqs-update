@@ -1,0 +1,6 @@
+
+# Raw hourly data
+data/raw/hourly*
+
+# Miscellany
+*.DS_Store
